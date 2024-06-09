@@ -3,7 +3,7 @@ You are in my personal Github account where I share my programming projects, gam
 
 ## Who am I?
 ### Short introduction
-I'm Yasin, a 19 years old game development enthusiast from Istanbul. I started coding with Java when I was at my mid 15s back then, it was a part of my unconscious career search. I have done a couple simple projects such as a calculator using Java, though I neither have the projects nor I would like to share them publicly since they are mostly incredibly inefficient. Knowing Java was a good thing, because I helped my older friends who needed some help on their Uni assignments(for some bucks off course :p).
+I'm Yasin, a 19 years old game development enthusiast from Istanbul. I started coding with Java when I was at my mid 15s, it was indeed a part of my unconscious career search. I have done a couple simple projects back then, such as a calculator using Java, though I neither have the projects right now nor I would like to share them publicly since they are incredibly inefficient. Knowing Java was a good thing, because I helped my older friends who needed some help on their Uni assignments(for some bucks off course :p).
 
 ### My journey of game development
 #### It all started with a mess
