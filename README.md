@@ -33,5 +33,5 @@ But time passed and the team fell apart, as the organizators guessed the project
 I am still learning and getting progress on game development. I hopped into Godot to see their ways of game development, and I liked it! I made a simple arcade game in it recently, which you can reach from (![here](https://yasinahmet.itch.io/wave-crawler)). I will be moving on with Godot for a while and make a couple projects such as Wave Crawler. Nowadays I am trying to gain money through freelancing, but haven't got successful on it somehow. Still, not gonna give up on freelancing. 
 
 ## You can reach me through:
-*If there is no hurry: yasinahmetakson@gmail.com (I shall reply to you in 1 to 2 days)
-*If there is hurry: yakhmet on Discord (I shall reply to you in 6 to 8 hours)
+1. If there is no hurry: yasinahmetakson@gmail.com (I shall reply to you in 1 to 2 days)
+2. If there is hurry: yakhmet on Discord (I shall reply to you in 6 to 8 hours)
