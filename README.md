@@ -10,7 +10,7 @@ I'm Yasin, a 19 years old game development enthusiast from Istanbul. I started c
 Though, I was a person who were actively playing video games at my mid 16. And making projects in Java was a mess because of it's terrible visual libraries(my opinion:)). Even if the visual libraries of Java are not that bad, I had a trauma because of the project(![WarplanB](https://github.com/YasinAhmet/WarplanB)) I tried to make when I was still a beginner. I developed the project in my early 17s, and it was basically a frame for wargames(a strategy game type). The project reached it's target, but the fact that I wasn't aware of what I am doing resulted in a mess.
 
 #### And started to take a form
-So to get access to better tools and opportunities I decided to hop into C# and start learning Unity to hit two targets with one arrow! In that way, I got rid of Java mess and started learning Unity to develop some video games. At first, I helped a phd student on completing his educational project in Unity. Then, I started making stuff on my own. I made a short game with no assets in a week at my 17, which should be considered a bad game in any manner(![Gunman](https://github.com/YasinAhmet/theGUNMAN). 
+So to get access to better tools and opportunities I decided to hop into C# and start learning Unity to hit two targets with one arrow! In that way, I got rid of Java mess and started learning Unity to develop some video games. At first, I helped a phd student on completing his educational project in Unity. Then, I started making stuff on my own. I made a short ![game](https://github.com/YasinAhmet/theGUNMAN) with no assets in a week at my 17, which should be considered a bad game in any manner. 
 
 #### Became better than the previous
 Following that project, I hopped into another(![Tycoonis](https://github.com/YasinAhmet/Tycoonis)) which is far better and complicated than the previous in both mechanical and visual way. The game had an economy. Resource exchange and management, buildings and various other features are in the game. Compared to the previous game, this one is great. There was a new popular concept at that time which is AI content. Back then, I decided to use AI art in my game. Icons, pop-up images and most of these art stuff were made with AI! Following that, I learnt Proton basics with a ![Monopoly Prototype](https://youtu.be/xKpALXtAejA)!
@@ -33,5 +33,5 @@ But time passed and the team fell apart, as the organizators guessed the project
 I am still learning and getting progress on game development. I hopped into Godot to see their ways of game development, and I liked it! I made a simple arcade game in it recently, which you can reach from (![here](https://yasinahmet.itch.io/wave-crawler)). I will be moving on with Godot for a while and make a couple projects such as Wave Crawler. Nowadays I am trying to gain money through freelancing, but haven't got successful on it somehow. Still, not gonna give up on freelancing. 
 
 ## You can reach me through:
-If there is no hurry: yasinahmetakson@gmail.com (I shall reply to you in 1 to 2 days)
-If there is hurry: yakhmet on Discord (I shall reply to you in 6 to 8 hours)
+*If there is no hurry: yasinahmetakson@gmail.com (I shall reply to you in 1 to 2 days)
+*If there is hurry: yakhmet on Discord (I shall reply to you in 6 to 8 hours)
