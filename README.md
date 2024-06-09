@@ -29,7 +29,7 @@ But time passed and the team fell apart, as the organizators guessed the project
 4. ![Clock Manager](https://yasinahmet.github.io/SaatTahmin/): There is a manual clock and some modern clocks in the game. You try to match the manual clock's time with modern clocks times. For the first five round, you do that by clicking the right modern clocks. For the next 5 rounds, you do that by fixing the manual clock's time by dragging your mouse while clicking the manual clock to the target time. %80 completed, but I am not sure what the hell this game is going to teach the children.
 5. ![Geometry Game](https://yasinahmet.github.io/Geometri/): You fill the box space given on the right with geometry shapes. %70 completed, the UI sucks.
 
-#### What am I doing about game development currently?
+#### What I am doing about game development currently?
 I am still learning and getting progress on game development. I hopped into Godot to see their ways of game development, and I liked it! I made a simple arcade game in it recently, which you can reach from (![here](https://yasinahmet.itch.io/wave-crawler)). I will be moving on with Godot for a while and make a couple projects such as Wave Crawler. Nowadays I am trying to gain money through freelancing, but haven't got successful on it somehow. Still, not gonna give up on freelancing. 
 
 ## You can reach me through:
